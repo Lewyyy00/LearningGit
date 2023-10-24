@@ -13,4 +13,4 @@ for sklep, produkty in Lista_zakupow.items():
     #Sposób policzenia produktów 
 Liczba_produktów = len(Lista_zakupow["piekarnia"]+Lista_zakupow["warzywniak"])
 print(f"W sumie kupuję {Liczba_produktów} produktów")
-c
+
